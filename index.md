@@ -3,13 +3,13 @@
 
 
 
-*[Cryptography](https://github.com/aryue123321/school/tree/master/crypto)* 
+*[Cryptography  C](https://github.com/aryue123321/school/tree/master/crypto)* 
 
-*[Operation System](https://github.com/aryue123321/school/tree/master/OS)*
+*[Operation System  C++, Java](https://github.com/aryue123321/school/tree/master/OS)*
 
 
 
 ## Other Programming Exercises
-*[Exercism-python](https://github.com/aryue123321/exercism/tree/master/python)*
+*[Exercism  Python](https://github.com/aryue123321/exercism/tree/master/python)*
 
-*[Exercism-c#](https://github.com/aryue123321/exercism/tree/master/csharp)*
+*[Exercism  C#](https://github.com/aryue123321/exercism/tree/master/csharp)*
