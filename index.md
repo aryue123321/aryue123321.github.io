@@ -2,12 +2,13 @@
 
 
 
+*[Intelligent Systems,  C++](https://github.com/aryue123321/school/tree/master/AI)* 
 
 *[Cryptography,  C](https://github.com/aryue123321/school/tree/master/crypto)* 
 
 *[Operation System  C++, Java](https://github.com/aryue123321/school/tree/master/OS)*
 
-*[Databse, SQL](https://github.com/aryue123321/school/tree/master/Database)*
+*[Advance Databse Management, SQL](https://github.com/aryue123321/school/tree/master/Database)*
 
 
 
