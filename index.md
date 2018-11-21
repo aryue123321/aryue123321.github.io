@@ -8,7 +8,7 @@
 
 *[Operation System  C++, Java](https://github.com/aryue123321/school/tree/master/OS)*
 
-*[Advance Databse Management, SQL](https://github.com/aryue123321/school/tree/master/Database)*
+*[Advance Database Management, SQL](https://github.com/aryue123321/school/tree/master/Database)*
 
 
 
