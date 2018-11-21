@@ -1,4 +1,4 @@
-### School projects at CSUS
+### School Projects at CSUS
 
 
 
