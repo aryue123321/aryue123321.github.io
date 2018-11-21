@@ -12,6 +12,8 @@
 
 *[OOP Graphic, Java](https://github.com/aryue123321/school/tree/master/graphic)*
 
+*[Special Problem, Python](https://github.com/aryue123321/school/tree/master/Special_problem)*
+
 
 
 ### Other Programming Exercises
