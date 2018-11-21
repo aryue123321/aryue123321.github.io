@@ -12,8 +12,6 @@
 
 *[OOP Graphic, Java](https://github.com/aryue123321/school/tree/master/graphic)*
 
-*[OOP Graphic, Java](https://github.com/aryue123321/school/tree/master/graphic)*
-
 *[Special Problem, Python](https://github.com/aryue123321/school/tree/master/Special_problem)*
 
 *[Computer System Attacks and Countermeasures](https://github.com/aryue123321/school/tree/master/security)*
