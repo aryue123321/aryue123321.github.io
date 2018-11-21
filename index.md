@@ -10,6 +10,8 @@
 
 *[Advance Database Management, SQL](https://github.com/aryue123321/school/tree/master/Database)*
 
+*[OOP Graphic, Java](https://github.com/aryue123321/school/tree/master/graphic)*
+
 
 
 ### Other Programming Exercises
