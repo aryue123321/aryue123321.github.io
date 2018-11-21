@@ -16,7 +16,7 @@
 
 *[Special Problem, Python](https://github.com/aryue123321/school/tree/master/Special_problem)*
 
-*[Computer System Attacks and Countermeasures, javascipt](https://github.com/aryue123321/school/tree/master/security)*
+*[Computer System Attacks and Countermeasures](https://github.com/aryue123321/school/tree/master/security)*
 
 ### Other Programming Exercises
 *[Exercism,  Python](https://github.com/aryue123321/exercism/tree/master/python)*
