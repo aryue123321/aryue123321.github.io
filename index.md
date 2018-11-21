@@ -1,4 +1,4 @@
-## School Work in CSUS
+### School Work in CSUS
 
 
 
@@ -11,7 +11,7 @@
 
 
 
-## Other Programming Exercises
+### Other Programming Exercises
 *[Exercism,  Python](https://github.com/aryue123321/exercism/tree/master/python)*
 
 *[Exercism,  C#](https://github.com/aryue123321/exercism/tree/master/csharp)*
