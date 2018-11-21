@@ -15,3 +15,6 @@
 *[Exercism,  Python](https://github.com/aryue123321/exercism/tree/master/python)*
 
 *[Exercism,  C#](https://github.com/aryue123321/exercism/tree/master/csharp)*
+
+
+*[Coursera Algorithm,  Java](https://github.com/aryue123321/coursera/tree/master/Algorithm)*
