@@ -2,5 +2,5 @@
 
 
 
-http://github.com - automatic!
-[GitHub](http://github.com)
+
+#####[My School Work](https://github.com/aryue123321/school)
