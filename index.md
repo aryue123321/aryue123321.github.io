@@ -19,9 +19,6 @@
 *[Complier,  C](https://github.com/aryue123321/school/tree/master/Compiler)* 
 
 ### Other Programming Exercises
-*[Exercism,  Python](https://github.com/aryue123321/exercism/tree/master/python)*
-
-*[Exercism,  C#](https://github.com/aryue123321/exercism/tree/master/csharp)*
-
+*[ASP MVC](https://github.com/aryue123321/Pepper-ASPMVC)*
 
 *[Coursera Algorithm,  Java](https://github.com/aryue123321/coursera/tree/master/Algorithm)*
