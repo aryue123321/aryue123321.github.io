@@ -19,6 +19,10 @@
 *[Complier,  C](https://github.com/aryue123321/school/tree/master/Compiler)* 
 
 ### Other Programming Exercises
-*[ASP MVC](https://github.com/aryue123321/Pepper-ASPMVC)*
+*[ASP MVC-MovieShop](https://github.com/aryue123321/Pepper-ASPMVC)*
+
+*[ASP MVC-DatingApp WebAPI](https://github.com/aryue123321/DatingAppAPI)*
+
+*[JavaScript and HTML ](https://github.com/aryue123321/VanillaJS)*
 
 *[Coursera Algorithm,  Java](https://github.com/aryue123321/coursera/tree/master/Algorithm)*
